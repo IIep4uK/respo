@@ -1,0 +1,2911 @@
+Модельний час 0.0
+  Timer стартує
+  Timer затримано до 8.0
+  kursa4.GeneratorAvto стартує
+  kursa4.GeneratorAvto затримано до 4.087626881981016
+Модельний час 4.087626881981016
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 4.643138661298956
+Модельний час 4.643138661298956
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 12.289930491159929
+Модельний час 8.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 16.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 10.895969119855238
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 10.822074154330448
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 10.822074154330448
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 10.895969119855238
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 12.289930491159929
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 13.235183100126347
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 13.432016473815901
+Модельний час 13.235183100126347
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 13.802783414728239
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 15.13334215465352
+Модельний час 13.432016473815901
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 13.802783414728239
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 15.006874881851294
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 16.666810698653883
+Модельний час 15.006874881851294
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 15.270345520949597
+Модельний час 15.13334215465352
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 15.270345520949597
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 17.04128284219599
+Модельний час 16.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 24.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 17.638892347884415
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 18.084084493255197
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 16.666810698653883
+Модельний час 16.666810698653883
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 17.04128284219599
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 17.76645481245979
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 18.626142338146256
+Модельний час 17.638892347884415
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 17.76645481245979
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 19.608749684392556
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 20.736057427921693
+Модельний час 18.084084493255197
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 18.626142338146256
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 19.608749684392556
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 20.33000094588043
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 20.9723867243766
+Модельний час 20.33000094588043
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 21.628760816316248
+Модельний час 20.736057427921693
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 20.9723867243766
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 21.628760816316248
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 24.950314314492367
+Модельний час 24.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 32.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 26.419313127996954
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 26.637897237060177
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 24.950314314492367
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 25.126265623309735
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 26.677448056188826
+Модельний час 25.126265623309735
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 30.751248771461903
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 26.56713646875848
+Модельний час 26.419313127996954
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 26.56713646875848
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 26.637897237060177
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 26.677448056188826
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 30.751248771461903
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 34.41143346792142
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 33.74405168340384
+Модельний час 32.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 40.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 33.74405168340384
+Модельний час 33.74405168340384
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 34.41143346792142
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 35.49198676274641
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 37.1744917711462
+Модельний час 35.49198676274641
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 35.9794730722468
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 38.03864128152544
+Модельний час 35.9794730722468
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 36.33245017851441
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 38.739754738739016
+Модельний час 36.33245017851441
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 38.95599568787021
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 38.01847822730265
+Модельний час 37.1744917711462
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 38.01847822730265
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 38.03864128152544
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 38.739754738739016
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 38.95599568787021
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 39.557185416670535
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 41.36422198787865
+Модельний час 39.557185416670535
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 39.593862121540695
+Модельний час 39.593862121540695
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 39.67892093563198
+Модельний час 39.67892093563198
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 41.02619512046237
+Модельний час 40.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 48.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 41.74301608807895
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 41.10791788301871
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 42.83348868841797
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 41.36422198787865
+Модельний час 41.02619512046237
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 46.834232592734075
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 43.85795922494155
+Модельний час 41.10791788301871
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 41.36422198787865
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 41.74301608807895
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 42.83348868841797
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 43.85795922494155
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 46.834232592734075
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 50.93716725395598
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 49.48210335025749
+Модельний час 48.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 56.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 49.48210335025749
+Модельний час 49.48210335025749
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 50.93716725395598
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 53.40686624827171
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 53.41591324523655
+Модельний час 53.40686624827171
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 54.10500115463996
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 54.47036415607008
+Модельний час 53.41591324523655
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 54.10500115463996
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 60.15401437494325
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 56.7792170755776
+Модельний час 54.47036415607008
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 56.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 64.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 56.7792170755776
+Модельний час 56.7792170755776
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 60.15401437494325
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 60.282322669020886
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 61.22532001458162
+Модельний час 60.282322669020886
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 60.641217510950106
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 61.487259613898
+Модельний час 60.641217510950106
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 61.86737682770736
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 61.698347087248834
+Модельний час 61.22532001458162
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 61.487259613898
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 61.698347087248834
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 61.86737682770736
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 63.103907870279606
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 64.29749690238101
+Модельний час 63.103907870279606
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 63.86463125872602
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 65.66118621411914
+Модельний час 63.86463125872602
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 64.0968257777557
+Модельний час 64.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 72.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 66.56717966710393
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 64.29749690238101
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 2
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 65.66118621411914
+Модельний час 64.0968257777557
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 73.15686955399524
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 66.66962704237922
+Модельний час 64.29749690238101
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 65.66118621411914
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 66.56717966710393
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 66.66962704237922
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 72.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 80.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 73.15686955399524
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 74.7825515887821
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 74.9927312409528
+Модельний час 74.7825515887821
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 75.73164200388206
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 77.66932508462986
+Модельний час 74.9927312409528
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 75.73164200388206
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 80.27836607593704
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 78.31335054920352
+Модельний час 77.66932508462986
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 78.31335054920352
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 80.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 88.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 80.27836607593704
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 80.96210224780768
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 83.02834626333612
+Модельний час 80.96210224780768
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 81.40707012095777
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 83.0832395204363
+Модельний час 81.40707012095777
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 81.6826316360127
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 83.5119340163567
+Модельний час 81.6826316360127
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 81.90934113776194
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 84.67625580933445
+Модельний час 81.90934113776194
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 82.76825257914724
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 83.0933579478489
+Модельний час 82.76825257914724
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 82.94842070110423
+Модельний час 82.94842070110423
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 83.64444629814541
+Модельний час 83.02834626333612
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 83.0832395204363
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 83.0933579478489
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 83.5119340163567
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 83.64444629814541
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 83.98962194954424
+Модельний час 83.98962194954424
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 84.0175818960982
+Модельний час 84.0175818960982
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 85.09492749224813
+Модельний час 84.67625580933445
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 85.09492749224813
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 6
+  kursa4.GeneratorAvto затримано до 86.1905452150298
+Модельний час 86.1905452150298
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 7
+  kursa4.GeneratorAvto затримано до 86.37926612226698
+Модельний час 86.37926612226698
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 8
+  kursa4.GeneratorAvto затримано до 86.89879755252825
+Модельний час 86.89879755252825
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 9
+  kursa4.GeneratorAvto затримано до 87.68700353003513
+Модельний час 87.68700353003513
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 10
+  kursa4.GeneratorAvto затримано до 87.7754639090764
+Модельний час 87.7754639090764
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 11
+  kursa4.GeneratorAvto затримано до 88.75992337111312
+Модельний час 88.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 96.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 10
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 89.31574114923434
+  kursa4.Brigada стартує
+  QueueAvto. Стало 9
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 90.98262661550875
+  kursa4.Brigada стартує
+  QueueAvto. Стало 8
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 89.15747650091504
+  kursa4.Brigada стартує
+  QueueAvto. Стало 7
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 89.55512629722986
+  kursa4.Brigada стартує
+  QueueAvto. Стало 6
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 90.36002728115838
+Модельний час 88.75992337111312
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 7
+  kursa4.GeneratorAvto затримано до 89.12095727889731
+Модельний час 89.12095727889731
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 8
+  kursa4.GeneratorAvto затримано до 93.61257403414852
+Модельний час 89.15747650091504
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 89.31574114923434
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 89.55512629722986
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 90.36002728115838
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 90.98262661550875
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 93.61257403414852
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 9
+  kursa4.GeneratorAvto затримано до 93.80230562186462
+Модельний час 93.80230562186462
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 10
+  kursa4.GeneratorAvto затримано до 97.42422911802323
+Модельний час 96.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 104.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 9
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 97.27212823932206
+  kursa4.Brigada стартує
+  QueueAvto. Стало 8
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 98.44897018918974
+  kursa4.Brigada стартує
+  QueueAvto. Стало 7
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 98.69805332513363
+  kursa4.Brigada стартує
+  QueueAvto. Стало 6
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 98.63653797202312
+  kursa4.Brigada стартує
+  QueueAvto. Стало 5
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 97.37246163816314
+Модельний час 97.27212823932206
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 97.37246163816314
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 97.42422911802323
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 6
+  kursa4.GeneratorAvto затримано до 105.7779884641242
+Модельний час 98.44897018918974
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 98.63653797202312
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 98.69805332513363
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 104.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 112.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 5
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 105.12704252065502
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 105.91497149419699
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 105.7219336907323
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 105.09707944164522
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 106.15345533140736
+Модельний час 105.09707944164522
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 105.12704252065502
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 105.7219336907323
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 105.7779884641242
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 108.08424831718642
+Модельний час 105.91497149419699
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 106.15345533140736
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 108.08424831718642
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 108.09243093415236
+Модельний час 108.09243093415236
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 108.88069785634251
+Модельний час 108.88069785634251
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 110.01256778970183
+Модельний час 110.01256778970183
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 6
+  kursa4.GeneratorAvto затримано до 110.64603120115603
+Модельний час 110.64603120115603
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 7
+  kursa4.GeneratorAvto затримано до 111.01024531786658
+Модельний час 111.01024531786658
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 8
+  kursa4.GeneratorAvto затримано до 111.43566232487561
+Модельний час 111.43566232487561
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 9
+  kursa4.GeneratorAvto затримано до 111.73071426278261
+Модельний час 111.73071426278261
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 10
+  kursa4.GeneratorAvto затримано до 111.85022058697801
+Модельний час 111.85022058697801
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 11
+  kursa4.GeneratorAvto затримано до 111.9032094576732
+Модельний час 111.9032094576732
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 12
+  kursa4.GeneratorAvto затримано до 112.47425436428303
+Модельний час 112.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 120.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 11
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 114.06268426678773
+  kursa4.Brigada стартує
+  QueueAvto. Стало 10
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 113.65249691289407
+  kursa4.Brigada стартує
+  QueueAvto. Стало 9
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 113.11743778366467
+  kursa4.Brigada стартує
+  QueueAvto. Стало 8
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 113.37743224002266
+  kursa4.Brigada стартує
+  QueueAvto. Стало 7
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 113.48620978741245
+Модельний час 112.47425436428303
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 8
+  kursa4.GeneratorAvto затримано до 121.45864044581849
+Модельний час 113.11743778366467
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 113.37743224002266
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 113.48620978741245
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 113.65249691289407
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 114.06268426678773
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 120.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 128.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 7
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 122.80312585251419
+  kursa4.Brigada стартує
+  QueueAvto. Стало 6
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 122.35522688072746
+  kursa4.Brigada стартує
+  QueueAvto. Стало 5
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 122.70576410411186
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 122.22434848384336
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 122.59887169282082
+Модельний час 121.45864044581849
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 123.54315356429429
+Модельний час 122.22434848384336
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 122.35522688072746
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 122.59887169282082
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 122.70576410411186
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 122.80312585251419
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 123.54315356429429
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 130.61909747198226
+Модельний час 128.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 136.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 130.10523270372795
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 130.4041950276687
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 129.07884564971025
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 129.70971675455885
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 130.993138722221
+Модельний час 129.07884564971025
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 129.70971675455885
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 130.10523270372795
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 130.4041950276687
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 130.61909747198226
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 131.03822627472783
+Модельний час 130.993138722221
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 131.03822627472783
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 131.0641957554139
+Модельний час 131.0641957554139
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 131.65642489618466
+Модельний час 131.65642489618466
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 132.46465316047315
+Модельний час 132.46465316047315
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 133.79512136382672
+Модельний час 133.79512136382672
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 6
+  kursa4.GeneratorAvto затримано до 134.71899337550073
+Модельний час 134.71899337550073
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 7
+  kursa4.GeneratorAvto затримано до 138.410489095473
+Модельний час 136.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 144.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 6
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 138.5137931984601
+  kursa4.Brigada стартує
+  QueueAvto. Стало 5
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 138.1172804201527
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 137.12342865671664
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 138.0073422162927
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 137.51640013935634
+Модельний час 137.12342865671664
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 137.51640013935634
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 138.0073422162927
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 138.1172804201527
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 138.410489095473
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 141.50900995749342
+Модельний час 138.5137931984601
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 141.50900995749342
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 143.0986503747215
+Модельний час 143.0986503747215
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 143.30703794802048
+Модельний час 143.30703794802048
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 6
+  kursa4.GeneratorAvto затримано до 144.67526766469652
+Модельний час 144.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 152.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 5
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 145.9708243508177
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 145.5479682234992
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 145.7911254289011
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 146.84614403469197
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 146.89153156150138
+Модельний час 144.67526766469652
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 146.2758973383189
+Модельний час 145.5479682234992
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 145.7911254289011
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 145.9708243508177
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 146.2758973383189
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 154.83014789667558
+Модельний час 146.84614403469197
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 146.89153156150138
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 152.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 160.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 153.96406877482607
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 153.14128802003765
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 154.6193915628156
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 153.14128802003765
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 153.96406877482607
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 154.6193915628156
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 154.83014789667558
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 154.9392745269622
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 157.77998357817688
+Модельний час 154.9392745269622
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 156.20310675597472
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 157.76951948973803
+Модельний час 156.20310675597472
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 156.51694457354424
+Модельний час 156.51694457354424
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 158.51229806021163
+Модельний час 157.76951948973803
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 157.77998357817688
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 158.51229806021163
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 158.9829667001887
+Модельний час 158.9829667001887
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 159.01881116495187
+Модельний час 159.01881116495187
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 5
+  kursa4.GeneratorAvto затримано до 160.65283308893265
+Модельний час 160.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 168.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 4
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 162.23161173748497
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 161.04340560931087
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 161.9814463498252
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 161.4366300361913
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 162.4642948712252
+Модельний час 160.65283308893265
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 166.61001188456927
+Модельний час 161.04340560931087
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 161.4366300361913
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 161.9814463498252
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 162.23161173748497
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 162.4642948712252
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 166.61001188456927
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 166.75879911301118
+Модельний час 166.75879911301118
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 169.2782523512819
+Модельний час 168.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 176.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 169.36436432184692
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 169.9338522696088
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 170.2106811512832
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 169.2782523512819
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 170.4342304336488
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 170.32801186349997
+Модельний час 169.36436432184692
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 169.9338522696088
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 170.2106811512832
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 170.32801186349997
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 170.4342304336488
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 173.6278620424588
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 172.36252022724372
+Модельний час 172.36252022724372
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 173.6278620424588
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 174.81154576157368
+Модельний час 174.81154576157368
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 180.76575844807007
+Модельний час 176.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 184.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 177.11615424625168
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 177.39693309752482
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 177.11615424625168
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 177.39693309752482
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 180.76575844807007
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 182.47850445071515
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 183.1907581142525
+Модельний час 182.47850445071515
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 182.508757001018
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 185.43232866151385
+Модельний час 182.508757001018
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 183.65906408047795
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 184.03072349881566
+Модельний час 183.1907581142525
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 183.65906408047795
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 183.9588126254023
+Модельний час 183.9588126254023
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 184.2350291111548
+Модельний час 184.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 192.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 185.46462086016504
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 186.4429043692934
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 185.43232866151385
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 2
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 184.03072349881566
+Модельний час 184.03072349881566
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 184.2350291111548
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 187.08298279688566
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 186.18871058667705
+Модельний час 185.43232866151385
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 185.46462086016504
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 186.18871058667705
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 186.4429043692934
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 187.08298279688566
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 193.5857421221023
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 189.95662424672898
+Модельний час 189.95662424672898
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 192.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 200.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 193.5857421221023
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 196.88333327569177
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 195.42687482274633
+Модельний час 195.42687482274633
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 196.88333327569177
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 201.36938418865057
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 199.78308913934316
+Модельний час 199.78308913934316
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 200.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 208.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 201.36938418865057
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 201.4276828282853
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 203.761378557157
+Модельний час 201.4276828282853
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 201.45784487898908
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 203.75477000745332
+Модельний час 201.45784487898908
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 202.6088469722189
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 202.58374069690632
+Модельний час 202.58374069690632
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 202.6088469722189
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 202.95309328441553
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 204.02421475374672
+Модельний час 202.95309328441553
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 203.07836266635496
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 204.08075985490748
+Модельний час 203.07836266635496
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 204.9813437011776
+Модельний час 203.75477000745332
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 203.761378557157
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 204.02421475374672
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 204.08075985490748
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 204.9813437011776
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 206.4768087294127
+Модельний час 206.4768087294127
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 208.18454695566365
+Модельний час 208.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 216.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 210.8799637300082
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 209.80843708104968
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 210.94009448332048
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 208.18454695566365
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 208.2389985890585
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 209.65377709694127
+Модельний час 208.2389985890585
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 208.3953312504791
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 210.6810579488988
+Модельний час 208.3953312504791
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 209.8100714952973
+Модельний час 209.65377709694127
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 209.80843708104968
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 209.8100714952973
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 214.00874505397556
+Модельний час 210.6810579488988
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 210.8799637300082
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 210.94009448332048
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 214.00874505397556
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 3
+  kursa4.GeneratorAvto затримано до 215.29237934895
+Модельний час 215.29237934895
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 4
+  kursa4.GeneratorAvto затримано до 216.60988383584117
+Модельний час 216.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 224.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 3
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 217.69600239247887
+  kursa4.Brigada стартує
+  QueueAvto. Стало 2
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 218.23520810870332
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 218.25459980118652
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 217.2551635963324
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 216.60988383584117
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 220.00540957669511
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 5
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 219.36014208917317
+Модельний час 217.2551635963324
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 4
+  kursa4.Brigada роботу завершив
+Модельний час 217.69600239247887
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 218.23520810870332
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 218.25459980118652
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 219.36014208917317
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 220.00540957669511
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 220.05119271201212
+Модельний час 220.05119271201212
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 2
+  kursa4.GeneratorAvto затримано до 225.38056384066428
+Модельний час 224.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 232.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 1
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 225.55790545749642
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 225.2695053906903
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+Модельний час 225.2695053906903
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 225.38056384066428
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 230.01470692146404
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 227.27133339274926
+Модельний час 225.55790545749642
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 227.27133339274926
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 230.01470692146404
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 231.82852975921173
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 231.85394739256787
+Модельний час 231.82852975921173
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 231.93040619320396
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 234.30800233513426
+Модельний час 231.85394739256787
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 231.93040619320396
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 232.2111944609897
+Модельний час 232.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 240.0
+  kursa4.Brigada стартує
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 233.5312751974511
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 234.30800233513426
+Модельний час 232.2111944609897
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 232.601230030295
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 233.61864848474985
+Модельний час 232.601230030295
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 236.69108799704605
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 233.63108514316025
+Модельний час 233.5312751974511
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 233.61864848474985
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 233.63108514316025
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 234.30800233513426
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 236.69108799704605
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 241.6980981851746
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 237.96598867358296
+Модельний час 237.96598867358296
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 240.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 248.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 241.6980981851746
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 245.73657919757332
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 243.1881309985513
+Модельний час 243.1881309985513
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 245.73657919757332
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 246.1456896026439
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 247.15237778742642
+Модельний час 246.1456896026439
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 247.98507587134617
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 247.62356652890062
+Модельний час 247.15237778742642
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 247.62356652890062
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 247.98507587134617
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 253.8385562022094
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 249.62958813092388
+Модельний час 248.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 256.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 249.62958813092388
+Модельний час 249.62958813092388
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 253.8385562022094
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 256.148979342966
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 254.8758177316689
+Модельний час 254.8758177316689
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 256.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 264.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 256.148979342966
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 259.005886289492
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 258.92621074849797
+Модельний час 258.92621074849797
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 259.005886289492
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 264.05553478832246
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 261.7224189909021
+Модельний час 261.7224189909021
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 264.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 272.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 264.05553478832246
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 267.76070836603327
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 266.7184568909943
+Модельний час 266.7184568909943
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 267.76070836603327
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 268.1834870647721
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 270.1227884981914
+Модельний час 268.1834870647721
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 269.6161738982093
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 269.63767202643004
+Модельний час 269.6161738982093
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 270.2414707958212
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 271.81756957598304
+Модельний час 269.63767202643004
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 270.1227884981914
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 270.2414707958212
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 276.85626318006115
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 272.03939449352805
+Модельний час 271.81756957598304
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 272.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 280.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 272.03939449352805
+Модельний час 272.03939449352805
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 276.85626318006115
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 276.93885195836134
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 279.0147284623776
+Модельний час 276.93885195836134
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 278.72024792877755
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 279.57133174625613
+Модельний час 278.72024792877755
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 278.8021580501653
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 3
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 281.0587071025304
+Модельний час 278.8021580501653
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 280.5038828189516
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 4
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 281.4038150135509
+Модельний час 279.0147284623776
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 3
+  kursa4.Brigada роботу завершив
+Модельний час 279.57133174625613
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 2
+  kursa4.Brigada роботу завершив
+Модельний час 280.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 288.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 281.0587071025304
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 2
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 281.4038150135509
+Модельний час 280.5038828189516
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 281.38213252493466
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 281.96592836421934
+Модельний час 281.0587071025304
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 281.38213252493466
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 284.1206036190222
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 283.0349935909105
+Модельний час 281.4038150135509
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 281.96592836421934
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 283.0349935909105
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 284.1206036190222
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 284.7418676526925
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 286.0245012098976
+Модельний час 284.7418676526925
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 294.9160875664254
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 2
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 286.9905461962793
+Модельний час 286.0245012098976
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 1
+  kursa4.Brigada роботу завершив
+Модельний час 286.9905461962793
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 288.0
+  Timer активізувався
+Час = 0.0
+  Timer затримано до 296.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 294.9160875664254
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 296.06358252713875
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 296.39907132431966
+Модельний час 296.0
+  Timer активізувався
+Час = 8.0
+  Timer затримано до 304.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  QueueBrigadNadurochno приймає танзакцію.
+  QueueBrigadNadurochno. Стало 1
+kursa4.Brigada стає в чергу надурочно
+  kursa4.Brigada затримано до 296.39907132431966
+Модельний час 296.06358252713875
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto затримано до 300.54559492222097
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 298.5807120778714
+Модельний час 296.39907132431966
+  kursa4.Brigada активізувався
+  QueueBrigadNadurochno. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 298.5807120778714
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 300.54559492222097
+  kursa4.GeneratorAvto активізувався
+  kursa4.GeneratorAvto додає час
+  QueueAvto приймає танзакцію.
+  QueueAvto. Стало 1
+  kursa4.GeneratorAvto роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  QueueAvto. Стало 0
+  QueueBrigad приймає танзакцію.
+  QueueBrigad. Стало 1
+  kursa4.Brigada чекає 'чекаємо кінця зміни', але не пізніше ніж до 302.303758660717
+Модельний час 302.303758660717
+  kursa4.Brigada активізувався 
+  QueueBrigad. Стало 0
+  kursa4.Brigada роботу завершив
+Модельний час 304.0
+  Timer активізувався
+Час = 16.0
+  Timer затримано до 312.0
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+Модельний час 312.0
+  Timer активізувався
+Час = 0.0
+  Timer роботу завершив
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada стартує
+  kursa4.Brigada чекає 'Має бути вантажівка в черзі'
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada дочекався 'Має бути вантажівка в черзі'
+  kursa4.Brigada роботу завершив
+  Диспетчер звільняє потоки, що чекали виконання умови
+  kursa4.Brigada не дочекався, бо диспетчер закінчив роботу
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada не дочекався, бо диспетчер закінчив роботу
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada не дочекався, бо диспетчер закінчив роботу
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada не дочекався, бо диспетчер закінчив роботу
+  kursa4.Brigada роботу завершив
+  kursa4.Brigada не дочекався, бо диспетчер закінчив роботу
+  kursa4.Brigada роботу завершив
+  Диспетчер роботу завершив

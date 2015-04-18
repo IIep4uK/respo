@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<project default="run" name="kp">
+		<property name="lib.dir" value="./lib"/>
+		<path id="classpath">
+		            <fileset dir="${lib.dir}" includes="**/*.jar"/>
+		 </path>
+		
+		<path id="build.classpath">
+		  <fileset dir=".">
+		     <include name="lib/*.jar"/>
+		  </fileset>
+		</path>
+
+		<pathconvert property="manifest.classpath" pathsep=" ">
+		  <path refid="build.classpath"/>
+		  <mapper>
+		    <chainedmapper>
+		       <flattenmapper/>
+		       <globmapper from="*.jar" to="lib/*.jar"/>
+		    </chainedmapper>
+		  </mapper>
+		</pathconvert>
+
+		<target name="buildjar" depends="compile">
+			<delete file="kp.jar"></delete>
+			<mkdir dir="ant/kursa4/lib"/>
+	        <copy includeemptydirs="false" todir="ant/kursa4/lib">
+	            <fileset dir="./lib">
+	            </fileset>
+	        </copy>
+
+			
+		  <jar jarfile="kp.jar">
+		     <fileset dir="ant" />
+		     <manifest>
+		       <attribute name="Main-Class" value="kursa4.Main"/>
+		       <attribute name="Class-Path" value="${manifest.classpath}"/>
+		     </manifest>
+		 </jar>
+		</target>
+		
+		<target name="run" depends="buildjar">
+			<java jar="kp.jar" fork="true" >
+			  <classpath>
+			    <path refid="classpath"/>
+			    <pathelement location="kp.jar"/>
+			  </classpath>
+			</java>
+		</target>
+		
+		<target name="compile">
+			<delete dir="ant"></delete>
+			<mkdir dir="ant"/>
+			<javac srcdir="src" destdir="ant" includeantruntime="false">
+				<classpath>
+					<path refid="classpath"></path>
+				</classpath>
+			</javac>
+		</target>
+		
+		<target name="doc">
+		    <javadoc sourcepath="src" destdir="doc"/>
+		  </target>
+
+		
+	</project>	
